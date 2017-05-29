@@ -1,7 +1,7 @@
 ---
 layout: allposts
-title: All posts
-landing-title: 'All posts'
+title: News
+landing-title: 'News'
 description: null
 image: null
 author: null
