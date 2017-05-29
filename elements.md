@@ -1,7 +1,3 @@
----
-layout: page
-title: Elements
----
 
 <!-- Main -->
 <div id="main" class="alt">
