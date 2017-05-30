@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Hi, we are RVHSRobotics'
 description: null
-image: /assets/images/philip-strong-213128.jpg
+image: null
 author: null
 ---
 
