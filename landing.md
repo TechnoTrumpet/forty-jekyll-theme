@@ -1,3 +1,4 @@
+<!-- This makes Jekyll ignore this...
 ---
 title: Landing
 layout: landing
@@ -5,6 +6,7 @@ description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. temp
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
+->
 
 <!-- Main -->
 <div id="main">
