@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Hi, we are RVHSRobotics'
 description: null
-image: null
+image: /assets/images/
 author: null
 ---
 
