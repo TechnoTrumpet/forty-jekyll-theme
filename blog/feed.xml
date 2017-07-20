@@ -3,7 +3,7 @@
   <channel>
     <title>TechnoTrumpet-Blog</title>
     <description>A tech veteran's journeys in coding</description>
-    <link></link>
+    <link>http://technotrumpet.github.io/</link>
     
       
         <item>
@@ -13,8 +13,8 @@
 &lt;p&gt;Thanks for visiting.&lt;/p&gt;
 </description>
           <pubDate>2017-07-20T10:58:00+00:00</pubDate>
-          <link>/blog/2017/07/20/changes</link>
-          <guid isPermaLink="true">/blog/2017/07/20/changes</guid>
+          <link>http://technotrumpet.github.io//blog/2017/07/20/changes</link>
+          <guid isPermaLink="true">http://technotrumpet.github.io//blog/2017/07/20/changes</guid>
         </item>
       
     
@@ -24,8 +24,8 @@
           <description>&lt;p&gt;Well. Finally got around to putting this old website together. &lt;!--more--&gt; Neat thing about it - powered by &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.&lt;/p&gt;
 </description>
           <pubDate>2017-02-18T00:00:00+00:00</pubDate>
-          <link>/blog/2017/02/18/First-Post</link>
-          <guid isPermaLink="true">/blog/2017/02/18/First-Post</guid>
+          <link>http://technotrumpet.github.io//blog/2017/02/18/First-Post</link>
+          <guid isPermaLink="true">http://technotrumpet.github.io//blog/2017/02/18/First-Post</guid>
         </item>
       
     
