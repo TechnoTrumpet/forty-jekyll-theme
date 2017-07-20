@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TechnoTrumpet-Blog</title>
+    <description>A tech veteran's journeys in coding</description>
+    <link></link>
+    
+      
+        <item>
+          <title>Changes</title>
+          <description>&lt;p&gt;Welcome to my humble site. Here, I will ramble, post about my coding journeys, and anything else I want.&lt;/p&gt;
+
+&lt;p&gt;Thanks for visiting.&lt;/p&gt;
+</description>
+          <pubDate>2017-07-20T10:58:00+00:00</pubDate>
+          <link>/blog/2017/07/20/changes</link>
+          <guid isPermaLink="true">/blog/2017/07/20/changes</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Site Launch</title>
+          <description>&lt;p&gt;Well. Finally got around to putting this old website together. &lt;!--more--&gt; Neat thing about it - powered by &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.&lt;/p&gt;
+</description>
+          <pubDate>2017-02-18T00:00:00+00:00</pubDate>
+          <link>/blog/2017/02/18/First-Post</link>
+          <guid isPermaLink="true">/blog/2017/02/18/First-Post</guid>
+        </item>
+      
+    
+  </channel>
+</rss>
